@@ -1,3 +1,5 @@
+C:\Users\likit\OneDrive\Desktop\home-astronaut.eb3ea49ff0af2d4cd9e1.jpg
+
 🚀 Space Exploration Dashboard
 A web application built using React.js for the frontend and MongoDB for user management. This platform integrates space event data, satellite information, and related news from external APIs. It allows users to explore space-related events in real-time, offering an engaging experience for space enthusiasts and professionals alike.
 
