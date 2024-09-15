@@ -1,1 +1,1 @@
-# SpaceExpoloration
+# SpaceExploration
